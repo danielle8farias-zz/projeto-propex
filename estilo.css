@@ -11,6 +11,10 @@
 .titulo-1 {
     width: 750px;
     height: 37px;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-bottom: 15px;
+    margin-left: auto;
 }
 
 .titulo-1 h1{        
