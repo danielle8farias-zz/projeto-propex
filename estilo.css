@@ -68,7 +68,8 @@ nav {
 }
 
 #dpp img,
-#direx img {
+#direx img,
+#editais img {
     width: 130px;
     height: 148px;
     display: block;
@@ -127,4 +128,8 @@ nav {
 #descricao-direx {
     width: 200px;
     height: 40px;
+}
+
+#descricao-editais {
+    padding-top: 8px;
 }
