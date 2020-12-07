@@ -54,18 +54,21 @@ article {
 
 nav {
     width: 750px;
-    height: 210px;
+    height: 270px;
     margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
 }
 
-#dpp {
-    width: 172px;
+.container-nav {
+    width: 180px;
     height: 265px;
+    margin-right: 80px;
 }
 
-#dpp img {
+#dpp img,
+#direx img {
     width: 130px;
     height: 148px;
     display: block;
@@ -73,11 +76,17 @@ nav {
     margin-right: auto;
 }
 
+#dpp {
+    float: left;
+}
+
 .descricao {
     width: 172px;
     height: 40px;
     text-align: center;
     margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .descricao p {
@@ -108,4 +117,14 @@ nav {
     font-family: 'Open Sans';
     font-size: 12px;
     font-weight: 600;
+}
+
+#direx {
+    float: right;
+    width: 200px;
+}
+
+#descricao-direx {
+    width: 200px;
+    height: 40px;
 }
