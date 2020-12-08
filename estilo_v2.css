@@ -81,3 +81,26 @@ nav {
     width: 208px;
     height: 61px;
 }
+
+.tooltip {
+    position: relative;
+}
+
+.tooltip-texto {
+    visibility: hidden;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    width: 200px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    padding: 4px;
+    opacity: 0;
+    transition: opacity 0.4s;
+}
+
+.tooltip:hover .tooltip-texto{
+    visibility: visible;
+    opacity: 1;
+}
