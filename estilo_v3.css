@@ -6,4 +6,41 @@
 
 .corpo-pagina {
     margin: 0 auto;
+    width: 1540px;
+}
+
+#parte-superior {
+    position: relative;
+}
+
+#banner {
+    margin-top: 15px;
+}
+
+#banner img {
+    width: 1536px;
+    height: 565px;
+}
+
+.texto-banner {
+    width: 900px;
+    height: 93px;
+    position: absolute;
+    top: 350px;
+    color: #fff;
+    margin-left: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+}
+
+.texto-banner h1 {
+    font-weight: bold;
+    font-size: 28pt;
+    line-height: 59px;
+}
+
+.texto-banner p {
+    font-weight: 500;
+    font-size: 12pt;
+    line-height: 28px;
 }
