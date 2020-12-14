@@ -73,7 +73,7 @@
 }
 
 #parte-inferior {
-    width: 1394px;
+    width: 1200px;
     height: 382px;
     margin-top: 40px;
     margin-left: auto;
@@ -85,7 +85,7 @@
     width: 382px;
     height: 382px;    
     background: #F7F7F7;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 #dpp img {
