@@ -89,9 +89,9 @@
 }
 
 #dpp img {
-    width: 120px;
+    width: 110px;
     height: 88px;
-    margin-top: 40px;
+    margin-top: 54px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -101,6 +101,11 @@
     font-family: 'Raleway', sans-serif;
     text-align: center;
     color: #222222;
+    width: 230px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
 }
 
 .texto-nav h2 {
@@ -145,4 +150,17 @@
     padding-top: 8px;
     text-transform: uppercase;
     color: #222222;
+}
+
+#direx img {
+    width: 100px;
+    height: 90px;
+    margin-top: 54px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#texto-direx {
+    width: 200px;
 }
