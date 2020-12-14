@@ -164,3 +164,13 @@
 #texto-direx {
     width: 200px;
 }
+
+#editais img {
+    width: 80px;
+    height: 90px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
