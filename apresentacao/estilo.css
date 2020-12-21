@@ -14,6 +14,7 @@
     color: #000;
     display: block;
     margin-top: 20px;
+    margin-bottom: 20px;
     width: 749px;
     height: 90px;
     margin-left: auto;
@@ -33,4 +34,37 @@
     font-style: normal;
     font-weight: normal;
     text-align: justify;
+}
+
+.organograma {
+    width: 750px;
+    height: 431px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.caixa-reitoria {
+    width: 127px;
+    height: 51px;
+    background: linear-gradient(270.11deg, rgba(0, 0, 0, 0.37) 4.1%, rgba(255, 255, 255, 0) 97.46%), #CD191E;
+    border-radius: 10px;
+    margin: 0 auto;
+    position: relative;
+}
+
+p#caixa-reitoria {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
