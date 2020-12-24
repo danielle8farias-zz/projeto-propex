@@ -55,7 +55,7 @@
 }
 
 p#caixa-reitoria {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -67,6 +67,38 @@ p#caixa-reitoria {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
+}
+
+.tooltip {
+    position: relative;
+}
+
+.tooltip-texto {
+    visibility: hidden;
+    color: #000;
+    text-align: center;
+    z-index: 1;
+    padding: 4px;
+    opacity: 0;
+    transition: opacity 0.4s;
+    position: absolute;
+    top: 40px;
+    left: 70px;
+    width: 87px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 2px solid #CD191E;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+.tooltip:hover .tooltip-texto{
+    visibility: visible;
+    opacity: 1;
 }
 
 #ligatura-1 {
