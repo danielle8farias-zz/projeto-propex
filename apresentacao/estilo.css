@@ -58,7 +58,7 @@ p#caixa-reitoria {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 15pt;
     line-height: 20px;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -93,7 +93,7 @@ p#caixa-reitoria {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 11pt;
+    font-size: 10pt;
 }
 
 .tooltip:hover .tooltip-texto{
@@ -114,4 +114,44 @@ p#caixa-reitoria {
     width: 4px;
     height: 10px;    
     background: #CD191E;
+}
+
+.caixa-propex {
+    width: 109px;
+    height: 52px;
+    border: 3px solid #CD191E;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin: 6px auto;
+    position: relative;
+}
+
+p#caixa-propex {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10.5pt;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #222;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+p#propex-subparagrafo {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 7pt;
+    line-height: 9px;
+    color: #222;
+    text-align: center;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
