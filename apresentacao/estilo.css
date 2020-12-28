@@ -212,3 +212,10 @@ p#cep-subparagrafo {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+
+#tooltip-cep {
+    border: 2px solid #2F9E41;
+    position: absolute;
+    top: 44px;
+    left: -30px;
+}
