@@ -175,10 +175,40 @@ span#tooltip-propex {
 }
 
 .caixa-cep {
-    width: 94px;
-    height: 45px;
+    width: 100px;
+    height: 50px;
     background: linear-gradient(270deg, rgba(219, 243, 69, 0.56) 19.58%, rgba(255, 255, 255, 0) 100%), #2F9E41;
     border-radius: 13px;
     margin: 0 auto;
     position: relative;
+}
+
+p#caixa-cep {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11pt;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+p#cep-subparagrafo {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8.5pt;
+    line-height: 10px;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
