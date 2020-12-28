@@ -168,8 +168,17 @@ span#tooltip-propex {
 
 #ligatura-2 {
     width: 2.81px;
-    height: 37.64px;
+    height: 90px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.caixa-cep {
+    width: 94px;
+    height: 45px;
+    background: linear-gradient(270deg, rgba(219, 243, 69, 0.56) 19.58%, rgba(255, 255, 255, 0) 100%), #2F9E41;
+    border-radius: 13px;
+    margin: 0 auto;
+    position: relative;
 }
