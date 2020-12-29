@@ -246,3 +246,44 @@ p#cep-subparagrafo {
     margin-right: 2px;    
     background: #195229;
 }
+
+.caixa-copex {
+    width: 100px;
+    height: 50px;
+    background: linear-gradient(270deg, rgba(219, 243, 69, 0.56) 19.58%, rgba(255, 255, 255, 0) 100%), #2F9E41;
+    border-radius: 13px;
+    margin: 0 auto;
+    position: absolute;
+    left: 53%;
+    margin-top: -2%;
+}
+
+p#caixa-copex {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11pt;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+p#copex-subparagrafo {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 7.5pt;
+    line-height: 10px;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
