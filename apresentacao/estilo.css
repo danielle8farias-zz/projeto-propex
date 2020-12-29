@@ -174,7 +174,7 @@ span#tooltip-propex {
     margin-right: auto;
 }
 
-.cruz-caixas {
+.level-3 {
     position: relative;
 }
 
@@ -302,4 +302,56 @@ p#copex-subparagrafo {
     width: 4px;
     height: 10px;    
     background: #195229;
+}
+
+.level-4 {
+    position: relative;
+}
+
+.caixa-dpp {
+    width: 110px;
+    height: 60px;
+    border: 2px solid #2F9E41;
+    border-radius: 12px;
+    margin: 0 auto;
+    position: absolute;
+    left: 5%;
+    margin-top: -2%;
+}
+
+p#caixa-dpp {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10.5pt;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #222;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+p#dpp-subparagrafo {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 7.5pt;
+    line-height: 10px;
+    color: #000;
+    text-align: center;
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#tooltip-dpp {
+    border: 2px solid #2F9E41;
+    position: absolute;
+    top: 52px;
+    left: -30px;
 }
