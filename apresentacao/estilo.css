@@ -175,9 +175,7 @@ span#tooltip-propex {
 }
 
 .cruz-caixas {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+    position: relative;
 }
 
 .caixa-cep {
@@ -186,8 +184,9 @@ span#tooltip-propex {
     background: linear-gradient(270deg, rgba(219, 243, 69, 0.56) 19.58%, rgba(255, 255, 255, 0) 100%), #2F9E41;
     border-radius: 13px;
     margin: 0 auto;
-    position: relative;
-    float: left;
+    position: absolute;
+    left: 34%;
+    margin-top: -2%;
 }
 
 p#caixa-cep {
@@ -233,6 +232,11 @@ p#cep-subparagrafo {
     display: inline-flex;
     margin-left: 3px;
     margin-right: 3px;
+    margin-top: 6px;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
 }
 
 .ret-verde {
