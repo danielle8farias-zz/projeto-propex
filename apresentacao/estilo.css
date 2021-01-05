@@ -408,3 +408,44 @@ p#direx-subparagrafo {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+
+#tooltip-direx {
+    border: 2px solid #2F9E41;
+    position: absolute;
+    top: 52px;
+    left: 70px;
+}
+
+.level-5 {
+    position: relative;
+    display: inline;
+}
+
+.level5-esquerda {
+    float: left;
+    height: 130px;
+}
+
+.level5-direita {
+    float: right;
+    height: 130px;
+}
+
+#ligatura-6,
+#ligatura-7 {
+    width: 2.81px;
+    height: 120px;
+    display: block;
+    margin-top: 38px;
+}
+
+#ligatura-6 {
+    margin-left: 108px;
+}
+
+.ret-verde-claro {
+    margin-top: 2px;
+    width: 4px;
+    height: 10px;    
+    background: #7CBC6C;
+}
