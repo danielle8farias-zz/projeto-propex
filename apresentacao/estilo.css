@@ -425,37 +425,26 @@ p#direx-subparagrafo {
     left: 70px;
 }
 
-.level-5 {
+.secao-dpa-dri {
     position: relative;
+    width: 750px;
+    height: 350px;
     display: inline;
 }
 
-.level5-esquerda {
+.secao-dpa {
     float: left;
-    height: 130px;
+    width: 250px;
+    height: 350px;
     position: relative;
 }
 
-.level5-direita {
-    float: right;
-    height: 130px;
-    position: relative;
-}
-
-#ligatura-6,
-#ligatura-7 {
-    width: 2.81px;
+#ligatura-6{
+    width: 5px;
     height: 120px;
-    display: block;
-    margin-top: 38px;
-}
-
-#ligatura-6 {
-    margin-left: 108px;
-}
-
-#ligatura-7 {
-    margin-right: 108px;
+    position: absolute;
+    left: 58%;
+    top: -1%;
 }
 
 .ret-verde-claro {
@@ -465,13 +454,13 @@ p#direx-subparagrafo {
     background: #7CBC6C;
 }
 
-#ligatura-8 {
-    width: 120px;
+#ligatura-7 {
+    width: 85px;
     height: 10px;
     display: inline-flex;
     position: absolute;
-    top: 90%;
-    left: 10%;
+    top: 10%;
+    left: 60%;
 }
 
 .ret-verde-claro-horizontal {
