@@ -378,3 +378,18 @@ p#dpp-subparagrafo {
     left: 78.5%;
     margin-top: -3%;
 }
+
+p#caixa-direx {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10.5pt;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #222;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
