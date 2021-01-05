@@ -38,11 +38,16 @@
 
 .organograma {
     width: 750px;
-    height: 431px;
+    height: 750 px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+}
+
+.secao-reitoria-propex {
+    width: 750px;
+    height: 227px;
 }
 
 .caixa-reitoria {
@@ -112,7 +117,7 @@ p#caixa-reitoria {
 .ret-vermelho {
     margin-top: 2px;
     width: 4px;
-    height: 10px;    
+    height: 8px;    
     background: #CD191E;
 }
 
@@ -122,7 +127,7 @@ p#caixa-reitoria {
     border: 3px solid #CD191E;
     box-sizing: border-box;
     border-radius: 12px;
-    margin: 6px auto;
+    margin: 8px auto;
     position: relative;
     margin-bottom: 0;
 }
@@ -424,11 +429,13 @@ p#direx-subparagrafo {
 .level5-esquerda {
     float: left;
     height: 130px;
+    position: relative;
 }
 
 .level5-direita {
     float: right;
     height: 130px;
+    position: relative;
 }
 
 #ligatura-6,
@@ -451,5 +458,21 @@ p#direx-subparagrafo {
     margin-top: 2px;
     width: 4px;
     height: 10px;    
+    background: #7CBC6C;
+}
+
+#ligatura-8 {
+    width: 120px;
+    height: 10px;
+    display: inline-flex;
+    position: absolute;
+    top: 90%;
+    left: 10%;
+}
+
+.ret-verde-claro-horizontal {
+    width: 8px;
+    height: 4px;
+    margin-right: 2px;    
     background: #7CBC6C;
 }
