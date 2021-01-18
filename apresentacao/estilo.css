@@ -458,7 +458,7 @@ p#direx-subparagrafo {
 }
 
 #ligatura-7 {
-    width: 85px;
+    width: 70px;
     height: 10px;
     display: inline-flex;
     position: absolute;
@@ -538,23 +538,23 @@ p#dpa-subparagrafo {
 }
 
 #ligatura-9 {
-    width: 85px;
+    width: 70px;
     height: 10px;
     display: inline-flex;
     position: absolute;
     top: 30%;
-    left: 13%;
+    left: 10.5%;
 }
 
 .caixa-dri {
     width: 110px;
-    height: 60px;
+    height: 52px;
     border: 2px solid #2F9E41;
     border-radius: 12px;
     margin: 0 auto;
     position: absolute;
-    left: -32%;
-    margin-top: 3%;
+    left: -34%;
+    top: 10%;
 }
 
 p#caixa-dri {
@@ -576,7 +576,7 @@ p#dri-subparagrafo {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 7.5pt;
+    font-size: 7.3pt;
     line-height: 10px;
     color: #000;
     text-align: center;
