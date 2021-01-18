@@ -599,19 +599,19 @@ p#dri-subparagrafo {
 }
 
 #ligatura-10 {
-    width: 100px;
+    width: 140px;
     height: 10px;
     display: inline-flex;
     position: absolute;
     top: 40%;
-    left: 19%;
+    left: 2%;
 }
 
 #ligatura-11{
     width: 5px;
     height: 50px;
     position: absolute;
-    left: 19%;
+    left: 2%;
     top: 40%;
 }
 
@@ -622,8 +622,8 @@ p#dri-subparagrafo {
     border-radius: 12px;
     margin: 0 auto;
     position: absolute;
-    left: -3%;
-    top: 54%;
+    left: -20%;
+    top: 55%;
 }
 
 p#caixa-coap {
