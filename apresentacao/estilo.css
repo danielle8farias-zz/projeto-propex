@@ -607,26 +607,26 @@ p#dri-subparagrafo {
     display: inline-flex;
     position: absolute;
     top: 35%;
-    left: 8%;
+    left: 20%;
 }
 
 #ligatura-11{
     width: 5px;
     height: 50px;
     position: absolute;
-    left: 8%;
+    left: 20%;
     top: 35%;
 }
 
 .caixa-coap {
     width: 110px;
-    height: 60px;
+    height: 52px;
     border: 2px solid #2F9E41;
     border-radius: 12px;
     margin: 0 auto;
     position: absolute;
-    left: -20%;
-    top: 55%;
+    left: -1%;
+    top: 50%;
 }
 
 p#caixa-coap {
