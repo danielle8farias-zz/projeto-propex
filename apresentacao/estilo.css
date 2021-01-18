@@ -517,7 +517,7 @@ p#dpa-subparagrafo {
 #tooltip-dpa {
     border: 2px solid #2F9E41;
     position: absolute;
-    top: 52px;
+    top: 46px;
     left: 70px;
     font-size: 9pt;
 }
@@ -662,7 +662,7 @@ p#coap-subparagrafo {
 #tooltip-coap {
     border: 2px solid #2F9E41;
     position: absolute;
-    top: 52px;
+    top: 45px;
     left: -30px;
     font-size: 9pt;
 }
