@@ -666,3 +666,52 @@ p#coap-subparagrafo {
     left: -30px;
     font-size: 9pt;
 }
+
+.caixa-public {
+    width: 110px;
+    height: 52px;
+    border: 2px solid #2F9E41;
+    border-radius: 12px;
+    margin: 0 auto;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+}
+
+p#caixa-public {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10.5pt;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #222;
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+p#public-subparagrafo {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8pt;
+    line-height: 10px;
+    color: #000;
+    text-align: center;
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#tooltip-public {
+    border: 2px solid #2F9E41;
+    position: absolute;
+    top: 45px;
+    left: -30px;
+    font-size: 9pt;
+}
