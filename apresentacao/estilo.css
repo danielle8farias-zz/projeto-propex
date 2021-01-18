@@ -599,12 +599,12 @@ p#dri-subparagrafo {
 }
 
 #ligatura-10 {
-    width: 85px;
+    width: 100px;
     height: 10px;
     display: inline-flex;
     position: absolute;
     top: 40%;
-    left: 24%;
+    left: 19%;
 }
 
 #ligatura-11{
