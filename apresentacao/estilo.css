@@ -475,13 +475,13 @@ p#direx-subparagrafo {
 
 .caixa-dpa {
     width: 110px;
-    height: 60px;
+    height: 52px;
     border: 2px solid #2F9E41;
     border-radius: 12px;
     margin: 0 auto;
     position: absolute;
-    left: 92%;
-    margin-top: 3%;
+    left: 94%;
+    top: 10%;
 }
 
 p#caixa-dpa {
