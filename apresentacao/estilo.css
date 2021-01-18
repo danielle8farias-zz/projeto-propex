@@ -186,13 +186,13 @@ span#tooltip-propex {
 }
 
 .caixa-cep {
-    width: 100px;
-    height: 50px;
+    width: 95px;
+    height: 45px;
     background: linear-gradient(270deg, rgba(219, 243, 69, 0.56) 19.58%, rgba(255, 255, 255, 0) 100%), #2F9E41;
     border-radius: 13px;
     margin: 0 auto;
     position: absolute;
-    left: 34.5%;
+    left: 35.3%;
     top: -25%;
 }
 
@@ -200,7 +200,7 @@ p#caixa-cep {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 11pt;
+    font-size: 9pt;
     line-height: 20px;
     text-transform: uppercase;
     color: #fff;
@@ -215,7 +215,7 @@ p#cep-subparagrafo {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 8.5pt;
+    font-size: 8pt;
     line-height: 10px;
     color: #fff;
     text-align: center;
@@ -231,6 +231,9 @@ p#cep-subparagrafo {
     position: absolute;
     top: 44px;
     left: -30px;
+    padding: 0;
+    width: 80px;
+    height: 25px;
 }
 
 #ligatura-3 {
