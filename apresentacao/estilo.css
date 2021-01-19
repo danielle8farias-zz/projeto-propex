@@ -715,3 +715,14 @@ p#public-subparagrafo {
     left: 50px;
     font-size: 9pt;
 }
+
+.secao-coap-coex{
+    width: 750px;
+    height: 250px;
+}
+
+.secao-cac-coex {
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
