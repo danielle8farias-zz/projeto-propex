@@ -518,7 +518,7 @@ p#dpa-subparagrafo {
     border: 2px solid #2F9E41;
     position: absolute;
     top: 46px;
-    left: 70px;
+    left: 50px;
     font-size: 9pt;
 }
 
@@ -712,6 +712,6 @@ p#public-subparagrafo {
     border: 2px solid #2F9E41;
     position: absolute;
     top: 45px;
-    left: -30px;
+    left: 50px;
     font-size: 9pt;
 }
