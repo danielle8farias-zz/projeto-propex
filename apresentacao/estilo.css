@@ -38,7 +38,7 @@
 
 .organograma {
     width: 750px;
-    height: 750 px;
+    height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -595,10 +595,17 @@ p#dri-subparagrafo {
     font-size: 8.5pt;
 }
 
+.secao-coap-coex{
+    width: 750px;
+    height: 250px;
+    display: inline-block;
+}
+
 .secao-coap-public {
     width: 250px;
     height: 250px;
     position: relative;
+    display: inline-flex;
 }
 
 #ligatura-10 {
@@ -716,13 +723,9 @@ p#public-subparagrafo {
     font-size: 9pt;
 }
 
-.secao-coap-coex{
-    width: 750px;
-    height: 250px;
-}
-
 .secao-cac-coex {
     width: 250px;
     height: 250px;
     position: relative;
+    display: inline-flex;
 }
