@@ -622,7 +622,7 @@ p#dri-subparagrafo {
     height: 50px;
     position: absolute;
     left: 20%;
-    top: -7%;
+    top: -7.3%;
 }
 
 .caixa-coap {
@@ -633,7 +633,7 @@ p#dri-subparagrafo {
     margin: 0 auto;
     position: absolute;
     left: -1%;
-    top: 4.8%;
+    top: 8%;
 }
 
 p#caixa-coap {
@@ -682,7 +682,7 @@ p#coap-subparagrafo {
     margin: 0 auto;
     position: absolute;
     left: 45%;
-    top: 4.8%;
+    top: 8%;
 }
 
 p#caixa-public {
