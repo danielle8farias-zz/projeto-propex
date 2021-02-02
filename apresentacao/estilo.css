@@ -793,7 +793,7 @@ p#cac-subparagrafo {
     border: 2px solid #2F9E41;
     position: absolute;
     top: 45px;
-    left: 50px;
+    left: -25px;
     font-size: 9pt;
 }
 
@@ -842,6 +842,6 @@ p#coex-subparagrafo {
     border: 2px solid #2F9E41;
     position: absolute;
     top: 45px;
-    left: -30px;
+    left: 50px;
     font-size: 9pt;
 }
