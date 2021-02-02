@@ -598,7 +598,8 @@ p#dri-subparagrafo {
 .secao-coap-coex{
     width: 750px;
     height: 250px;
-    display: inline-block;
+    position: relative;
+    display: inline-flex;
 }
 
 .secao-coap-public {
@@ -740,6 +741,13 @@ p#public-subparagrafo {
     left: 58.5%;
 }
 
+#ligatura-13{
+    width: 5px;
+    position: absolute;
+    left: 100%;
+    top: -7.3%;
+}
+
 .caixa-cac {
     width: 110px;
     height: 52px;
@@ -788,3 +796,4 @@ p#cac-subparagrafo {
     left: 50px;
     font-size: 9pt;
 }
+
