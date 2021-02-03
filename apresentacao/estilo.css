@@ -38,7 +38,7 @@
 
 .organograma {
     width: 750px;
-    height: auto;
+    height: 590px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -844,4 +844,24 @@ p#coex-subparagrafo {
     top: 45px;
     left: 50px;
     font-size: 9pt;
+}
+
+.parte-meio {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 16px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 749px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11pt;
+    align-items: center;
+    color: #222;
 }
