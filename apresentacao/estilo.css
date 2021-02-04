@@ -893,6 +893,7 @@ li {
     color: #222;
     margin-top: 20px;
     padding-bottom: 10px;
+    transition: 0.4s;
 }
 
 .lista-numerada li:before {
@@ -905,7 +906,7 @@ li {
     color: #4F4F4F;
     opacity: 0.2;
     position: absolute;
-    top: -16px;
+    top: -13px;
     left: -10px;
 }
 
@@ -924,4 +925,16 @@ li.item-lista-uma-linha {
     font-size: 11pt;
     align-items: center;
     color: #222;
+}
+
+.lista-numerada li:hover {
+    width: 749px;
+    height: 52px;
+    background: #EAEBEE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-left: 22px;
+}
+
+li.dois-algarismos:hover {
+    padding-left: 56px;
 }
