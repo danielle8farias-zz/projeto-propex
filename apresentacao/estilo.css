@@ -912,3 +912,16 @@ li {
 li.item-lista-uma-linha {
     padding-top: 10px;
 }
+
+.parte-inferior p {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 16px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11pt;
+    align-items: center;
+    color: #222;
+}
