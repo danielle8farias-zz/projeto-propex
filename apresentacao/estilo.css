@@ -851,7 +851,7 @@ p#coex-subparagrafo {
     line-height: 16px;
     display: block;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     width: 749px;
     height: 15px;
     margin-left: auto;
@@ -891,6 +891,8 @@ li {
     font-size: 11.5pt;
     line-height: 23px;
     color: #222;
+    margin-top: 20px;
+    padding-bottom: 10px;
 }
 
 .lista-numerada li:before {
@@ -907,3 +909,6 @@ li {
     left: -10px;
 }
 
+li.item-lista-uma-linha {
+    padding-top: 10px;
+}
