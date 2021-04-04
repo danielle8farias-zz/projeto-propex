@@ -1,0 +1,526 @@
+@media screen and (min-width: 320px) and (max-width: 360px) {
+
+    body {
+        margin-left: 15px;
+        margin-right: 15px;
+        width: 90%;
+        scroll-behavior: smooth;
+    }
+    
+    .container-titulo-1 {
+        width: 310px;
+    }
+    
+    #titulo-copex {
+        font-size: 30px;
+        line-height: 31px;
+    }
+    
+    .container-introducao {
+        width: 300px;
+        height: 485px;
+    }
+    
+    #introducao-copex {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    
+    .tabela-diretores {
+        width: 300px;
+        height: 480px;
+    }
+    
+    .pro-reitoria {
+        width: 300px;        
+        height: 150px;
+    }
+    
+    .container-titulo-2 {
+        width: 280px;
+        height: 35px;
+    }
+    
+    .titulo-diretores {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .container-paragrafo-diretores {
+        width: 280px;
+        height: 100px;
+    }
+    
+    p.paragrafo-diretores {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    
+    .ligaturas {
+        width: 200px;
+        height: 22px;
+    }
+
+    .parte-inferior-diretores {
+        width: 300px;
+        height: 160px;
+    }
+    
+    .diretoria-pesquisa {
+        width: 146px;
+        height: 280px;
+    }
+    
+    .mobile-titulo-2 {
+        width: 150px;
+        height: 75px;
+    }
+    
+    .mobile-paragrafo-diretores {
+        width: 140px;
+        height: 200px;
+    }
+    
+    .diretoria-extensao {
+        width: 146px;
+        height: 280px;
+    }
+    
+    .mobile-paragrafo-extensao {
+        padding-top: 15px;
+    }
+
+    .abas-copex {
+        margin: 0 auto;
+        width: 300px;
+    }
+    
+    .container-abas {
+        width: 300px;
+    }
+
+    .container-titulos-abas {
+        width: 300px;
+    }
+
+    .tab-content {
+        margin-bottom: 20px;
+    }
+
+    .borda-superior-aba-1 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 300px;
+    }
+
+    .aba-1 {
+        width: 300px;
+    }
+
+    ol.copex-lista {
+        margin-left: -16px;
+    }
+
+    .tab-content li::before {
+        font-size: 54px;
+        line-height: 65px;
+        padding-right: 0;
+    }
+
+    .tab-content li {
+        padding-left: 10px;
+    }
+
+    p.texto-li-objetivos {
+        line-height: 18px;
+        margin: 10px;
+        margin-left: 5px;
+    }
+
+    .borda-superior-aba-2 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 735px;
+    }
+
+    .aba-2 {
+        width: 735px;
+        margin: 0;
+        padding-left: 15px;
+    }
+
+    .borda-superior-aba-3 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 300px;
+    }
+
+    .aba-3 {
+        width: 300px;
+        padding-top: 10px;
+    }
+
+    table.tabela-copex {
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+
+    th {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+    td {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+}
+
+@media screen and (min-width: 375px) and (max-width: 420px) {
+
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+        scroll-behavior: smooth;
+    }
+
+    .container-titulo-1 {
+        width: 360px;
+        height: 130px;
+    }
+
+    .container-introducao {
+        width: 360px;
+        height: 350px;
+    }
+    
+    #introducao-copex {
+        font-size: 17px;
+    }
+
+    .tabela-diretores {
+        width: 360px;
+        height: 490px;
+    }
+
+    .pro-reitoria {
+        width: 310px;
+        height: 145px;
+    }
+
+    .container-titulo-2 {
+        width: 300px;
+        height: 35px;
+    }
+
+    .container-paragrafo-diretores {
+        height: 90px;
+    }
+
+    .ligaturas {
+        width: 250px;
+        height: 28px;
+    }
+
+    .parte-inferior-diretores {
+        width: 360px;
+        height: 300px;
+    }
+
+    .diretoria-pesquisa {
+        width: 160px;
+        height: 280px;
+    }
+
+    .mobile-titulo-2 {
+        width: 152px;
+        height: 55px;
+        padding-left: 2px;
+    }
+
+    .mobile-paragrafo-diretores {
+        width: 153px;
+        height: 200px;
+    }
+
+    .diretoria-extensao {
+        width: 160px;
+        height: 280px;
+    }
+
+    .mobile-paragrafo-extensao {
+        height: 160px;
+        padding-top: 20px;
+    }
+
+    .abas-copex {
+        width: 360px;
+    }
+
+    .container-abas {
+        width: 360px;
+    }
+
+    .container-titulos-abas {
+        width: 360px;
+    }
+
+    .borda-superior-aba-1 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 350px;
+        margin-top: -10px;
+    }
+
+    .aba-1 {
+        width: 360px;
+        margin-left: -10px;
+    }
+
+    .tab-content {
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+    ol.copex-lista {
+        margin-left: -15px;
+    }
+
+    .tab-content li {
+        padding-left: 10px;
+    }
+
+    .tab-content li::before {
+        font-size: 54px;
+        line-height: 80px;
+        padding-right: 0;
+    }
+
+    p.texto-li-objetivos {
+        line-height: 19px;
+        margin: 10px;
+        margin-left: 2px;
+    }
+
+    .borda-superior-aba-2 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 725px;
+        margin-top: -10px;
+    }
+
+    .aba-2 {
+        width: 735px;
+        margin: 0;
+        margin-left: -10px;
+        padding-left: 15px;
+    }
+
+    .borda-superior-aba-3 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 350px;
+        margin-top: -10px;
+    }
+
+    .aba-3 {
+        width: 360px;
+        margin-left: -10px;
+    }
+
+    table.tabela-copex {
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+
+    th {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+    td {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+}
+
+@media screen and (min-width: 425px) and (max-width: 550px) {
+
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+        scroll-behavior: smooth;
+    }
+    
+    .container-titulo-1 {
+        width: 415px;
+        height: 150px;
+    }
+
+    .container-introducao {
+        width: 415px;
+        height: 320px;
+        padding-right: 10px;
+    }
+        
+    #introducao-copex {
+        font-size: 17px;
+    }
+    
+    .tabela-diretores {
+        width: 415px;
+        height: 460px;
+        padding-right: 10px;
+    }
+    
+    .pro-reitoria {
+        width: 300px;
+        height: 160px;
+    }
+
+    .container-titulo-2 {
+        width: 280px;
+        height: 40px;
+    }
+
+    .container-paragrafo-diretores {
+        width: 290px;
+        margin: 0;
+    }
+
+    .ligaturas {
+        width: 300px;
+        height: 35px;
+    }
+
+    .parte-inferior-diretores {
+        width: 420px;
+        height: 200px;
+    }
+
+    .diretoria-pesquisa {
+        width: 190px;
+        height: 240px;
+    }
+
+    .mobile-titulo-2 {
+        width: 185px;
+        height: 55px;
+        padding-left: 2px;
+        padding-right: 10px;
+    }
+
+    .mobile-paragrafo-diretores {
+        width: 180px;
+        height: 180px;
+    }
+
+    .diretoria-extensao {
+        width: 190px;
+        height: 240px;
+    }
+    
+    .mobile-paragrafo-extensao {
+        padding-top: 10px;
+    }
+
+    .abas-copex {
+        width: 415px;
+    }
+
+    .container-abas {
+        width: 415px;
+    }
+
+    .container-titulos-abas {
+        width: 405px;
+    }
+
+    .borda-superior-aba-1 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 395px;
+        margin-top: -10px;
+    }
+
+    .aba-1 {
+        width: 405px;
+        padding-top: 10px;
+        padding-left: 10px;
+        margin-left: -10px;
+    }
+
+    .tab-content {
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+    ol.copex-lista {
+        margin-left: -10px;
+    }
+
+    .tab-content li {
+        padding-left: 10px;
+    }
+
+    .tab-content li::before {
+        font-size: 54px;
+        line-height: 80px;
+        padding-right: 0;
+    }
+
+    p.texto-li-objetivos {
+        line-height: 19px;
+        margin: 10px;
+        margin-left: 2px;
+    }
+    
+    .borda-superior-aba-2 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 725px;
+        margin-top: -10px;
+    }
+
+    .aba-2 {
+        width: 735px;
+        margin: 0;
+        margin-left: -10px;
+        padding-left: 15px;
+    }
+
+    .borda-superior-aba-3 {
+        border-bottom: 1px solid #C4C4C4;
+        width: 395px;
+        margin-top: -10px;
+    }
+
+    .aba-3 {
+        width: 405px;
+        margin: 0;
+        margin-left: -10px;
+        padding-top: 10px;
+    }
+
+    table.tabela-copex {
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+
+    th {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+    td {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+}
